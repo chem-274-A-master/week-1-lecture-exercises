@@ -9,6 +9,6 @@ This must be in a function (call_element) for testing purposes.
 element_list = ["H", "He", "Li", "Be"]
 
 def call_element():
-
-  # Fill in a number that will result in an index error
-  element_list[]
+  # Use the element_list and pick an index that will result in an index error
+  # erase the pass statement
+  pass

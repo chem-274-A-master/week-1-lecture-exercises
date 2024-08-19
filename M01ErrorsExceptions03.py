@@ -9,7 +9,8 @@ If an IndexError occurs, you should return the last element of the list.
 
 def safe_list(a_list, index):
   # Your code here
-
+  # erase the pass and write your code here
+  pass
   
     
 
