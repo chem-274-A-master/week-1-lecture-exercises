@@ -30,14 +30,6 @@ terminal prompt. Run `conda deactivate` when you are finished working.
 
 Edit only the exercise file.
 
-| File | Task |
-| --- | --- |
-| `M00Tutorial01.py` | Write `hello_world`, which returns `"Hello, World!"`. |
-| `M01ErrorsExceptions01.py` | Find and fix the syntax errors so the module runs. |
-| `M01ErrorsExceptions02.py` | Implement `call_element` so it raises an `IndexError` by accessing an invalid list index. |
-| `M01ErrorsExceptions03.py` | Implement `safe_list` using `try` and `except IndexError`. |
-| `M01ErrorsExceptions04.py` | Make `weighted_average` raise `ValueError` when the two inputs have different lengths. |
-
 Do not modify files in `tests/`, `.github/scripts/`, or `.github/workflows/`.
 Those files define how your work is checked.
 
